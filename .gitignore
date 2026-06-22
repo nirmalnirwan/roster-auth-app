@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/roster-auth-app/bin/Debug/net10.0
+/roster-auth-app/obj
