@@ -5,3 +5,4 @@
 /.vs
 /roster-auth-app/bin/Debug/net10.0
 /roster-auth-app/obj
+/roster-auth-app/bin/Release/net10.0

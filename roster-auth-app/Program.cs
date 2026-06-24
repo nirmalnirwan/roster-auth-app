@@ -68,7 +68,8 @@ builder.Services.AddCors(options =>
                 "https://localhost:3000",  // Frontend HTTPS
                 "https://next-go.fly.dev",
                 "http://localhost:7060",   // Next-Go API
-                "https://localhost:7060"   // Next-Go API HTTPS
+                "https://localhost:7060",   // Next-Go API HTTPS
+                "https://roster-app-web.netlify.app"
             )
             .AllowAnyMethod()
             .AllowAnyHeader()
